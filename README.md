@@ -20,7 +20,7 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 ## Portfolio
 
 ### Test Documentation
-- Test Cases
+- [Test Cases](https://github.com/juliaperchiany/juliaperchiany/tree/main/Test-Cases)
 - Checklists
 - Bug Reports
 
