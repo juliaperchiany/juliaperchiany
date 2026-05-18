@@ -1,5 +1,5 @@
 # Yuliia Perchiany | Junior QA Engineer
-<alt="image" src="https://github.com/juliaperchiany/juliaperchiany/blob/fba37b8c4caf332d3dda3ace20ba5d557e1a3949/icons/1_TVAesIez5-jGN29qU7bn2A.gif" />
+![Image alt](https://github.com/juliaperchiany/juliaperchiany/blob/main/icons/1_TVAesIez5-jGN29qU7bn2A.gif))
 
 ## About Me
 
