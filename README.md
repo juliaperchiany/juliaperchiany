@@ -8,33 +8,9 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 
 ---
 
-## Resume
+## My CV
 
 - [View Resume](ССЫЛКА_НА_РЕЗЮМЕ)
-
----
-
-## Technologies & Tools
-
-### Testing
-- Functional Testing
-- Smoke Testing
-- Regression Testing
-- Test Cases
-- Checklists
-- Bug Reporting
-
-### Tools
-- Postman
-- Chrome DevTools
-- Jira (basic)
-- GitHub
-
-### Technical Basics
-- SQL Basics
-- HTTP Basics
-- HTML/CSS Basics
-- Basic JavaScript Understanding
 
 ---
 
@@ -61,17 +37,3 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 - LinkedIn: linkedin.com/in/yuliia-perchiany
 - Location: Ukraine (Remote)
 
-<!--
-**juliaperchiany/juliaperchiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
