@@ -1,5 +1,5 @@
 # Yuliia Perchiany | Junior QA Engineer
-
+(https://github.com/juliaperchiany/juliaperchiany/blob/fba37b8c4caf332d3dda3ace20ba5d557e1a3949/icons/1_TVAesIez5-jGN29qU7bn2A.gif)
 ## About Me
 
 Junior QA Engineer with 10+ years of experience working with software systems, databases, digital workflows and user support.
