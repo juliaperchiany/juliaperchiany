@@ -35,7 +35,7 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 ---
 ## Tools and Technologies
 <a href="https://www.postman.com" target="_blank">
-  <img src="https://githubusercontent.com/juliaperchiany/juliaperchiany/blob/main/icons/Postman.png" alt="postman" width="50">
+  <img src="/icons/Postman.png" alt="postman" width="50">
 </a>
 
 ## Contacts
