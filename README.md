@@ -37,6 +37,10 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 <a href="https://www.postman.com" target="_blank">
   <img src="/icons/Postman.png" alt="postman" width="50">
 </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="/icons/Jira.png" alt="postman" width="50">
+</a>
+
 
 ## Contacts
 
