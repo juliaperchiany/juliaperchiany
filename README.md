@@ -38,6 +38,5 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 
 - Email: juliaperchiany@gmail.com
 - Location: Ukraine (Remote)
-- 
-[<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/b92a3392-c4ff-454e-90bb-a0c207f3c001" />](https://www.linkedin.com/in/yuliia-perchiany/?)
+- [<img width="57" height="20" alt="image" src="https://github.com/user-attachments/assets/b92a3392-c4ff-454e-90bb-a0c207f3c001" />](https://www.linkedin.com/in/yuliia-perchiany/?)
 
