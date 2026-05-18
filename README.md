@@ -21,12 +21,12 @@ Currently studying manual testing, API testing, SDLC/STLC and test documentation
 
 ### Test Documentation
 - [Test Cases](https://github.com/juliaperchiany/juliaperchiany/tree/main/Test-Cases)
-- Checklists
-- Bug Reports
+- [Checklists](https://github.com/juliaperchiany/juliaperchiany/tree/main/Checklists)
+- [Bug Reports](https://github.com/juliaperchiany/juliaperchiany/tree/main/Bug-Reports)
 
 ### API Testing
-- Postman Collections
-- API Test Scenarios
+- [Postman Collections](https://github.com/juliaperchiany/juliaperchiany/blob/main/API-Testing/postman-collection.json)
+- [API Test Scenarios](https://github.com/juliaperchiany/juliaperchiany/blob/main/API-Testing/api-test-scenarios.md)
 
 ### Practice Projects
 - Web Application Testing Practice
