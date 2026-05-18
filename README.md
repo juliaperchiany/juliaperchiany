@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="444" height="250" alt="image" src="https://github.com/user-attachments/assets/50cbabc1-cb53-45ec-8609-fe25dc7cf700" />
 
 <!--
 **juliaperchiany/juliaperchiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
